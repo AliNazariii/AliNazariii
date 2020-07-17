@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Ali</h1>
+
+<br/> 
 
 <!--
 **AliNazariii/AliNazariii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
