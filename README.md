@@ -3,7 +3,7 @@
 <br/> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliNazariii&hide=html&layout=compact)
-![mattn's github stats](https://github-readme-stats.vercel.app/api?username=AliNazariii&show_icons=true&count_private=true&line_height=40)
+![mattn's github stats](https://github-readme-stats.vercel.app/api?username=AliNazariii&show_icons=true&count_private=true)
 
 <!--
 **AliNazariii/AliNazariii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
