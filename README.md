@@ -1,11 +1,12 @@
 ### Hi 👋, I'm Ali
 
+<!--
 <br/> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliNazariii&hide=html&layout=compact)
 ![mattn's github stats](https://github-readme-stats.vercel.app/api?username=AliNazariii&show_icons=true&count_private=true&hide=stars)
 
-<!--
+
 **AliNazariii/AliNazariii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
